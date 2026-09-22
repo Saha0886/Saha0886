@@ -32,9 +32,9 @@ ROS 1 / ROS 2
 <img width="250" height="300" alt="New York Waiting GIF by Muppet Wiki" src="https://github.com/user-attachments/assets/c46a27c5-ce22-447a-8d4f-cf0b83a99be2" />
 <img width="250" height="300" alt="Bored Whats Going On GIF by Ponke" src="https://github.com/user-attachments/assets/de8d3c1c-4f6c-42bd-a5ea-64d34e320b35" />
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aleksandr&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github.com/stats-organization/github-stats-extended)   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Saha0886&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aleksandr&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github.com/stats-organization/github-stats-extended)   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Saha0886&layout=compact&theme=ambient_gradient)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saha0886&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saha0886&theme=ambient_gradient)](https://git.io/streak-stats)
 
 ![micro-ROS](https://img.shields.io/badge/micro--ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
