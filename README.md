@@ -28,9 +28,9 @@ ROS 1 / ROS 2
 В будущем хочу полностью посвятить себя робототехнике — создавать сложные автономные и сервисные роботы.
 
 
-<img width="1000" height="296" alt="Lizard Hello GIF" src="https://github.com/user-attachments/assets/e96c86a4-8fd4-4304-a27b-bc11a31105bb" />
-<img width="300" height="300" alt="New York Waiting GIF by Muppet Wiki" src="https://github.com/user-attachments/assets/c46a27c5-ce22-447a-8d4f-cf0b83a99be2" />
-<img width="300" height="300" alt="Bored Whats Going On GIF by Ponke" src="https://github.com/user-attachments/assets/de8d3c1c-4f6c-42bd-a5ea-64d34e320b35" />
+<img width="250" height="300" alt="Lizard Hello GIF" src="https://github.com/user-attachments/assets/e96c86a4-8fd4-4304-a27b-bc11a31105bb" />
+<img width="250" height="300" alt="New York Waiting GIF by Muppet Wiki" src="https://github.com/user-attachments/assets/c46a27c5-ce22-447a-8d4f-cf0b83a99be2" />
+<img width="250" height="300" alt="Bored Whats Going On GIF by Ponke" src="https://github.com/user-attachments/assets/de8d3c1c-4f6c-42bd-a5ea-64d34e320b35" />
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aleksandr&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github.com/stats-organization/github-stats-extended)   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Saha0886&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
